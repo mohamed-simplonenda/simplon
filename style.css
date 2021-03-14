@@ -251,3 +251,15 @@ font-weight: 600;
   -ms-transform: scale(1);
   transform: scale(1);
 }
+
+/* partenaires */
+.partenaire{
+  width: 150px;
+  height: 100px;
+  filter: grayscale(100%);
+}
+.partenaire:hover{
+  width: 150px;
+  height: 100px;
+  filter: grayscale(0%);
+}
